@@ -547,5 +547,5 @@
 - [HiTShiroya](https://github.com/HiTShiroya)
 - [Supriadi](https://github.com/obocloud)
 - [Jug Patel](https://github.com/MadDevMax)
-- [Shivam Gupta](https://shivam-gupta007.github.io/)
+- [Shivam Gupta](https://github.com/shivam-gupta007)
 <!-- prettier-ignore-end -->
